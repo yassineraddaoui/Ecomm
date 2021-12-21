@@ -9,3 +9,4 @@ la partie Panier
 la commande
 le payement
 la partie Mobiler
+Base de donnees Avec Mysql creer automatiquement avec JPA
